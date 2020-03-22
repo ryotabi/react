@@ -1,0 +1,15 @@
+.title{
+  width: 100%;
+  text-align: center;
+}
+
+.text-wrap{
+  border: black 1px solid;
+  padding: 50px;
+  margin-bottom: 50px;
+}
+
+.day{
+  font-size: 50px;
+  margin: 0;
+}
